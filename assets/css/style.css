@@ -1,0 +1,121 @@
+body *{
+  font-family: 'Raleway',
+  sans-serif;
+  width: 100vw;
+}
+
+nav{
+  top: 7px;
+  background: #000000 0% 0% no-repeat padding-box;
+  text-align: center;
+  height: 59px;
+}
+
+nav h1{
+  font: normal normal medium 50px/59px Raleway;
+  color: #FFFFFF;
+}
+
+.desc-section{
+  background-color: #000000;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 45px;
+  padding-bottom: 66px;
+}
+
+.texto, #iguana1{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.texto{
+  text-align: left;
+  font: normal normal 300 16px/19px Raleway;
+  color: #FFFFFF;
+  width: 475px;
+}
+
+#iguana1{
+  margin-left: 106px;
+  width: 399px;
+  height: 237px;
+}
+
+.icon-section{
+  background-color: #1E1A13;
+  color: #FFFFFF;
+  margin: 0px auto;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  display: inline-block;  
+  text-align: center !important;
+}
+
+h2{
+  font: normal normal medium 40px/47px Raleway;
+  text-align: center;
+}
+
+table{
+  text-align: center;
+}
+
+tr{
+  text-align: center;
+}
+
+table i, table h4{
+  max-width: 150px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+h4{
+  font: normal normal 300 25px/30px Raleway;
+  margin: 0px 50px;
+  min-width: 250px;
+  padding: 15px 0px;
+}
+
+.fas, .far{
+  max-width: 150px;
+  margin: 0px 100px; 
+  margin-top: 50px;
+}
+
+.photo-section{
+  height: 348px;
+  background: #000000 0% 0% no-repeat padding-box;
+  display: inline-block;
+  text-align: center;
+}
+
+.fotos{
+    display: inline-block;
+    width: auto;
+    margin: 75px 16px;
+}
+
+.photo-section img{
+  width: 316px;
+  height: 202px;
+  display: inline-block;
+}
+
+footer{
+  background: #1E1A13 0% 0% no-repeat padding-box;
+  padding: 39px;
+  opacity: 0.94;
+  vertical-align:middle;
+  text-align: center;
+}
+
+a:-webkit-any-link,
+#text-footer {
+  font: normal normal 300 20px/24px Raleway !important;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
